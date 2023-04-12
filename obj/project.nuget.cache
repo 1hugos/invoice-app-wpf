@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oOOGYHH+HxlAwESA6XMrTNH5ibwMvt5N4YpWRvYXdVPNZiG/7nmKdMNSNcmhPdVy0WbvRjSYRmNDjTpGEAbH+g==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\InvoiceApp\\InvoiceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spart\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

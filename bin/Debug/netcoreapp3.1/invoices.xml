@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfInvoice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Invoice>
+    <ClientName>asda</ClientName>
+    <ClientStreet>sda</ClientStreet>
+    <ClientCity>asda</ClientCity>
+    <ClientCountry>asda</ClientCountry>
+    <ClientZipCode>1212</ClientZipCode>
+    <ClientCompanyNumber>1212</ClientCompanyNumber>
+    <CompanyName>asda</CompanyName>
+    <CompanyStreet>dasdas</CompanyStreet>
+    <CompanyCity>asdas</CompanyCity>
+    <CompanyCountry>dasd</CompanyCountry>
+    <CompanyZipCode>123123</CompanyZipCode>
+    <CompanyNumber>412412444</CompanyNumber>
+    <InvoiceDate>2022-12-12T00:00:00</InvoiceDate>
+    <InvoiceItem>balaa</InvoiceItem>
+    <InvoiceQuantity>12</InvoiceQuantity>
+    <InvoicePrice>122</InvoicePrice>
+    <InvoiceTax>21</InvoiceTax>
+    <InvoiceAmount>14000</InvoiceAmount>
+  </Invoice>
+</ArrayOfInvoice>
